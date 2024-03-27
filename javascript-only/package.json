@@ -4,11 +4,11 @@
   "description": "Experimenting Mocking with Vitest against ES Modules",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Nicolas DUBIEN <github@dubien.org>",
+  "license": "MIT",
   "devDependencies": {
     "vitest": "^1.4.0"
   }
