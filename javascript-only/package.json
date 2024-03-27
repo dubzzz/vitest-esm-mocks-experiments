@@ -1,7 +1,9 @@
 {
-  "name": "vitest-esm-mocks-experiments",
+  "private": true,
+  "type": "module",
+  "name": "javascript-only",
   "version": "1.0.0",
-  "description": "Experimenting Mocking with Vitest against ES Modules",
+  "description": "Experimenting Mocking with Jest against ES Modules in JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
