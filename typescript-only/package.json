@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "typescript-only",
+  "version": "1.0.0",
+  "description": "Experimenting Mocking with Jest against ES Modules in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Nicolas DUBIEN <github@dubien.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.3",
+    "vitest": "^1.4.0"
+  }
+}
